@@ -1,4 +1,4 @@
-# git-secret-scanner
+# RELIC
 
 A command-line tool that scans a git repository's **full commit history**
 — not just the current files — for leaked secrets: API keys, tokens, and
